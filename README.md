@@ -1,4 +1,5 @@
 # README
+![alt text](https://github.com/Rizxh/ruby-web/blob/main/ruby-web-result.png)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
